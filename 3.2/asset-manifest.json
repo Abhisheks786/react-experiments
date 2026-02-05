@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-experiments/3.2/static/css/main.20ffda21.css",
+    "main.js": "/react-experiments/3.2/static/js/main.8007e7cd.js",
+    "index.html": "/react-experiments/3.2/index.html",
+    "main.20ffda21.css.map": "/react-experiments/3.2/static/css/main.20ffda21.css.map",
+    "main.8007e7cd.js.map": "/react-experiments/3.2/static/js/main.8007e7cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ffda21.css",
+    "static/js/main.8007e7cd.js"
+  ]
+}
